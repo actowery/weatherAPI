@@ -1,7 +1,3 @@
-//Cihan Adrian Towery
-//CS290
-//AJAX
-//03 Nov 2017
 
 //alert("loaded");
 document.addEventListener('DOMContentLoaded', bindButtons);
