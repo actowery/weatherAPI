@@ -1,9 +1,5 @@
-//Cihan Adrian Towery
-//CS290
-//AJAX
-//03 Nov 2017
 
-//alert("test")
+//alert("connection test")
 
 document.addEventListener("DOMContentLoaded", bindButtons);
 
