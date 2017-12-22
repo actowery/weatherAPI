@@ -33,3 +33,4 @@ function displayResult(response)
 {
     document.getElementById("streturn").textContent = response.str;
 }
+
